@@ -1,30 +1,26 @@
 <h3 align="center">
     <a href="#">
-        <img height="100" src="https://raw.githubusercontent.com/mdebrahim98/Videoshare/main/logo.png" alt="logo" title="Videoshare">
+        <img height="100" src="https://raw.githubusercontent.com/mdebrahim98/TicTacToeAI/main/logo.png" alt="logo" title="TicTacToeAI">
     </a>
 </h1>
 <h3 align="center">
-Videoshare
+TicTacToeAI
 </h3>
 <p align="center">
-A simple video sharing application like YouTube
+A fun tic-tac-toe game which allows you to play it with an AI bot
 </p>
 <br>
 
-[![Contributors](https://img.shields.io/github/contributors/mdebrahim98/Videoshare.svg)](https://github.com/mdebrahim98/Videoshare/graphs/contributors)
-[![License](https://img.shields.io/github/license/mdebrahim98/Videoshare.svg)](https://github.com/mdebrahim98/Videoshare/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/mdebrahim98/TicTacToeAI.svg)](https://github.com/mdebrahim98/TicTacToeAI/graphs/contributors)
+[![License](https://img.shields.io/github/license/mdebrahim98/TicTacToeAI.svg)](https://github.com/mdebrahim98/TicTacToeAI/blob/master/LICENSE)
 
-# What is [Videoshare](https://relieved-suspenders-ray.cyclic.app/)?
+# What is [TicTacToeAI](mdebrahim-tic-tac-toe-ai.netlify.app/)?
 
-The Videoshare is a simple video sharing application like YouTube.
-
-## How to use?
-
-First open the [app](https://relieved-suspenders-ray.cyclic.app/), and then login using email id or your google account. After that, you can upload video, share it and also view other's videos. It also has search functionality to search through all videos. 
+A fun tic-tac-toe game which allows you to play it with an AI bot where you can not win :p.
 
 ## Feedback
 
-Give me your valuable feedback or opinion by creating Github [issue](https://github.com/mdebrahim98/Videoshare/issues/new).
+Give me your valuable feedback or opinion by creating Github [issue](https://github.com/mdebrahim98/TicTacToeAI/issues/new).
 
 ## Contributing
 
